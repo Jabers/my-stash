@@ -1,7 +1,13 @@
+@font-face {
+	font-family: "Gafata", sans-serif;
+	font-family: "Sanchez", serif;
+	src: url (http://fonts.googleapis.com/css?family=Gafata|Sanchez:400italic,400)
+}
+
 p {
 	font-family: "Gafata", sans-serif;
 	color: #4F4C4C;
-	font-size: 25px;
+	font-size: 2px;
 }
 /*
 body {
@@ -21,12 +27,6 @@ h2, h3 { font-family: "Sanchez", Arial, serif;
 	font-weight: 400;
 	color: #282626
 	font-size: 30px
-}
-
-@font-face {
-	font-family: "Gafata", sans-serif;
-	font-family: "Sanchez", serif;
-	src: url (http://fonts.googleapis.com/css?family=Gafata|Sanchez:400italic,400)
 }
 
 header {
