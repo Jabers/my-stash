@@ -4,6 +4,11 @@
 	src: url (http://fonts.googleapis.com/css?family=Gafata|Sanchez:400italic,400)
 }
 
+body {
+  font-family: Gafata, sans-serif;
+  /*------text-shadow: 4px 4px 4px #aaa;------*/
+}
+
 h1 {
 	font-family: Sanchez, Arial, serif;
 	font-weight: 400;
@@ -29,13 +34,6 @@ ul {
 	color: #4F4C4C;
 	font-size: 14px;
 }
-
-/*
-body {
-  font-family: Gafata, sans-serif;
-  /*------text-shadow: 4px 4px 4px #aaa;------*/
-}
-*/
 
 header {
 	background: #5174d5:
