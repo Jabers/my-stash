@@ -1,12 +1,14 @@
 p {
+	font-family: "Gafata", sans-serif;
 	color: #4F4C4C;
 	font-size: 25px;
 }
-
+/*
 body {
   font-family: "Gafata", sans-serif;
   /*------text-shadow: 4px 4px 4px #aaa;------*/
 }
+*/
 
 h1 { font-family: "Sanchez", Arial, serif;
 	font-weight: 400;
