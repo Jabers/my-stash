@@ -16,14 +16,16 @@ body {
 }
 */
 
-h1 { font-family: "Sanchez", Arial, serif;
+h1 {
+	font-family: "Sanchez", Arial, sans-serif;
 	font-weight: 400;
 	color: #282626
 	font-size: 36px
 }
 
 
-h2, h3 { font-family: "Sanchez", Arial, serif;
+h2, h3 {
+	font-family: "Sanchez", Arial, serif;
 	font-weight: 400;
 	color: #282626
 	font-size: 30px
