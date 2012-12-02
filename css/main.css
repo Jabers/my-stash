@@ -10,6 +10,7 @@ body {
 
 h1 { font-family: "Sanchez", Arial, serif;
 	font-weight: 400;
+	color: #282626
 }
 
 @font-face {
