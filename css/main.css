@@ -45,13 +45,13 @@ p {
 	font-family: Gafata, sans-serif;
 	color: #4F4C4C;
 	font-size: 14px;
-	width: 560px;
+	width: 600px;
 	background: #DBCBCB;
 	padding: 0;
 }
 
 #main_nav li {
-	width: 185px /* old size 186.666667px */;
+	width: 300px;
 	background: #870404;
 	list-style-type: none;
 	color: #FFF;
