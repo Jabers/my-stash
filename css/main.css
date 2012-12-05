@@ -9,7 +9,7 @@
 }
 
 body {
-	width: 900px;
+	width: 800px;
 	margin: 0 auto;
 	font-family: Gafata, sans-serif;
 	padding: 0;
@@ -38,6 +38,7 @@ p {
 }
 
 #logo {
+	margin: 0;
 	float: right;
 }
 
