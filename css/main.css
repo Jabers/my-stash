@@ -9,7 +9,7 @@ html {
 }
 
 body {
-	background-image: url('../images/kart_action.jpg');
+	background-image: url('../images/kart_action.jpg'); opacity:0.4;
 	background-repeat: no-repeat;
 /*--background-attachment: fixed--*/
 	background-position: left center;
