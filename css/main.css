@@ -24,22 +24,9 @@ h1 {
 	clear: both;
 }
 
-h2, h3 {
-	font-family: Sanchez, Arial, serif;
-	font-weight: 400;
-	color: #282626
-	font-size: 30px
-}
-
-p {
-	font-family: Gafata, sans-serif;
-	color: #4F4C4C;
-	font-size: 16px;
-}
-
 #logo {
 	margin: 0;
-	float: right;
+	float: left;
 }
 
 #main_nav {
@@ -62,6 +49,20 @@ p {
 
 #tagline h1 {
 	clear: both;
+}
+
+
+h2, h3 {
+	font-family: Sanchez, Arial, serif;
+	font-weight: 400;
+	color: #282626
+	font-size: 30px
+}
+
+p {
+	font-family: Gafata, sans-serif;
+	color: #4F4C4C;
+	font-size: 16px;
 }
 
 aside {
