@@ -16,6 +16,7 @@ h1 {
 	font-weight: 400;
 	color: #282626
 	font-size: 36px
+	float: clear;
 }
 
 h2, h3 {
