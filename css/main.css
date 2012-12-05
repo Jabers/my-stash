@@ -25,13 +25,13 @@ h1 {
 }
 
 #logo {
-	margin: 0;
+	/*margin: 0;*/
 	/*float: left;*/
 }
 
 #main_nav {
 	font-family: Gafata, sans-serif;
-	color: #4F4C4C;
+	/*color: #4F4C4C;*/
 	font-size: 14px;
 	width: 600px;
 	background: #DBCBCB;
@@ -43,7 +43,7 @@ h1 {
 	width: 200px;
 	background: #870404;
 	list-style-type: none;
-	/*color: #FFF;*/
+	color: #FFF;
 	float: left;
 }
 
