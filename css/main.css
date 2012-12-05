@@ -52,7 +52,7 @@ p {
 }
 
 #main_nav li {
-	width: 186.666667px;
+	width: 100px /* old size 186.666667px */;
 	background: #870404;
 	list-style-type: none;
 	color: #FFF;
