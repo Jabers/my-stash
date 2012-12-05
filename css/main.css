@@ -4,24 +4,16 @@
 	src: url (http://fonts.googleapis.com/css?family=Gafata|Sanchez:400italic,400)
 }
 
-#wrapper {
-	background: #E0F6FC;
-}
-
 body {
 	width: 800px;
-	margin: auto;
+	margin: 0 auto;
 	font-family: Gafata, sans-serif;
 	padding: 0;
   /*------text-shadow: 4px 4px 4px #aaa;------*/
 }
 
-h1 {
-	font-family: Sanchez, Arial, serif;
-	font-weight: 400;
-	color: #282626
-	font-size: 36px
-	clear: both;
+#wrapper {
+	background: #E0F6FC;
 }
 
 #logo {
@@ -51,6 +43,13 @@ h1 {
 	clear: both;
 }
 
+h1 {
+	font-family: Sanchez, Arial, serif;
+	font-weight: 400;
+	color: #282626
+	font-size: 36px
+	clear: both;
+}
 
 h2, h3 {
 	font-family: Sanchez, Arial, serif;
