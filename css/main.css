@@ -37,6 +37,13 @@ p {
 	font-size: 14px;
 	width: 560px;
 	background: #DBCBCB;
+	list-style-type: none;
+	pading: 0;
+}
+
+#main_nav li {
+	width: 186.666667px;
+	background: #870404;
 }
 
 header {
