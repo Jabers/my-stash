@@ -21,15 +21,15 @@ body {
 	/*float: left;*/
 }
 
-#main_nav {
+/*#main_nav {
 	font-family: Gafata, sans-serif;
-	/*color: #4F4C4C;*/
+	color: #4F4C4C;
 	font-size: 14px;
 	width: 600px;
 	background: #DBCBCB;
 	padding: 0 auto;
 	margin: 0;
-}
+}*/
 
 #main_nav li {
 	width: 200px;
