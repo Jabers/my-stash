@@ -33,6 +33,10 @@ a:hover {
 	color: #fc7e86;
 }
 
+a:visited {
+	color: #aaec1a;
+}
+
 #main_nav {
 	font-family: Gafata, sans-serif;
 	/*color: #4F4C4C;*/
