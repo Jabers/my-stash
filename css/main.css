@@ -12,7 +12,7 @@ body {
 	background-image: url('../images/kart_action.png');
 	background-repeat: no-repeat;
 /*--background-attachment: fixed--*/
-	background-position: left center;
+	background-position: center center;
 	background-color: #b7b7b7;
 	width: 800px;
 	margin: 0 auto;
