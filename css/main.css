@@ -4,6 +4,10 @@
 	src: url (http://fonts.googleapis.com/css?family=Gafata|Sanchez:400italic,400)
 }
 
+html {
+	height: 100%;
+}
+
 body {
 	background-image: url('../images/kart_action.jpg');
 	background-repeat: no-repeat;
