@@ -43,7 +43,7 @@ a:hover {
 
 #main_nav li {
 	width: 200px;
-	background: #870404;
+	background: rgba(148,4,14,.5);
 	list-style-type: none;
 	color: #FFF;
 	float: left;
