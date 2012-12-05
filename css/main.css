@@ -5,7 +5,7 @@
 }
 
 body {
-	background-image: url('images/kart_action.jpg');
+	background-image: url('../images/kart_action.jpg');
 	background-repeat: no-repeat;
 	background-attachment: fixed
 	background-color: #cccccc;
