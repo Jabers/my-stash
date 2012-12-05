@@ -9,8 +9,8 @@ body {
 	margin: 0 auto;
 	font-family: Gafata, sans-serif;
 	padding: 0;
-	background-image:url('images/kart_action.jpg');
-	/*background-color:#cccccc;/*
+	background-image:url('kart_action.jpg');
+	background-color:#cccccc;
   /*------text-shadow: 4px 4px 4px #aaa;------*/
 }
 
