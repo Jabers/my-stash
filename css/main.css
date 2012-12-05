@@ -65,6 +65,10 @@ h2, h3 {
 	font-size: 30px
 }
 
+#top_main h2{
+	text-shadow: 4px 4px 4px #aaa;
+}
+
 p {
 	font-family: Gafata, sans-serif;
 	color: #4F4C4C;
