@@ -45,6 +45,7 @@ p {
 	background: #870404;
 	list-style-type: none;
 	color: #FFF;
+	float: left;
 }
 
 header {
