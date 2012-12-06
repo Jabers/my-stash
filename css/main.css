@@ -53,6 +53,10 @@ a:visited {
 	float: left;
 }
 
+#mark a:hover {
+	color: none;
+}
+
 #tagline h1 {
 	text-shadow: 4px 4px 4px #aaa;
 	clear: both;
