@@ -29,9 +29,10 @@ body {
 	float: left;
 }
 
+/* attempt to eliminate hover color over anchors
 #anchor_one a:hover {
 	color: none;
-}
+} */
 
 a:hover {
 	color: #fc7e86;
@@ -81,6 +82,10 @@ h2, h3 {
 	text-shadow: 4px 4px 4px #aaa;
 }
 
+ol li {
+	list-style-type: none;
+}
+
 #middle_main h2{
 	text-shadow: 4px 4px 4px #aaa;
 }
@@ -91,7 +96,7 @@ h2, h3 {
 }
 
 #char_gal li {
-	list-style-type: circle;
+	list-style-type: none;
 	float: left;
 }
 
