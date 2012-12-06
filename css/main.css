@@ -109,6 +109,7 @@ ol li {
 #char_gal_two li {
 	list-style-type: none;
 	float: left;
+	border: solid 1px #94040e;
 }
 
 #bottom_main h2{
