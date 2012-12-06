@@ -35,10 +35,10 @@ body {
 } */
 
 #main_nav a:hover {
-	color: #ff0;
+	color: #ffff00;
 }
 
-a:visited {
+#main_nav a:visited {
 	color: #fc7e86;
 }
 
