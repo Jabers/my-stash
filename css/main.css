@@ -104,6 +104,7 @@ ol li {
 	list-style-type: none;
 	float: left;
 	border: solid 1px #94040e;
+	margin-left: 15px;
 }
 
 #char_gal_two {
@@ -114,6 +115,7 @@ ol li {
 	list-style-type: none;
 	float: left;
 	border: solid 1px #94040e;
+	margin-left: 15px;
 }
 
 #bottom_main h2{
