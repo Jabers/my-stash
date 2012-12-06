@@ -99,6 +99,7 @@ ol li {
 #char_gal_one li {
 	list-style-type: none;
 	float: left;
+	border: solid 1px #94040e;
 }
 
 #char_gal_two {
