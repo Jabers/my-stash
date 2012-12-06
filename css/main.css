@@ -110,7 +110,7 @@ ol li {
 
 #char_gal_two li {
 	list-style-type: none;
-	float: left;
+	/*float: left;*/
 }
 
 #bottom_main h2{
