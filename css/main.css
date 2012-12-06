@@ -83,6 +83,12 @@ ol li {
 	text-shadow: 4px 4px 4px #aaa;
 }
 
+#categories {
+	-moz-column-count: 3; /* Firefox */
+	-webkit-column-count: 3; /* Safari and Chrome */
+	column-count: 3;
+}
+
 #char_gal {
 	background-color: rgba(148,4,14,.5);
 	overflow: hidden;
