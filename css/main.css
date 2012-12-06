@@ -99,12 +99,12 @@ ol li {
 #char_gal_one li {
 	list-style-type: none;
 	float: left;
+	clear: both;
 }
 
 #char_gal_two li {
 	list-style-type: none;
 	float: left;
-	clear: both;
 }
 
 #bottom_main h2{
