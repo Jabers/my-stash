@@ -97,12 +97,12 @@ ol li {
 }
 
 #char_gal_one {
-	float: left;
+
 }
 
 #char_gal_one li {
 	list-style-type: none;
-	/*margin: 20px;*/
+	float: left;
 }
 
 #char_gal_two {
