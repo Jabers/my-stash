@@ -28,20 +28,15 @@ body {
 	/*margin: 0;*/
 	float: left;
 }
-
-/* attempt to eliminate hover color over anchors
-#anchor_one a:hover {
-	color: none;
-} */
-
+/*
 #main_nav a:hover {
-	color: #ffff00;
+	color: #90e03a;
 }
 
 #main_nav a:visited {
-	color: #fc7e86;
+	color: #3abce0;
 }
-
+*/
 #main_nav {
 	font-family: Gafata, sans-serif;
 	/*color: #4F4C4C;*/
