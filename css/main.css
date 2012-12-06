@@ -101,9 +101,12 @@ ol li {
 	float: left;
 }
 
+#char_gal_two {
+	float: clear;
+}
+
 #char_gal_two li {
 	list-style-type: none;
-	/*float: clear;*/
 	float: left;
 }
 
