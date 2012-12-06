@@ -88,6 +88,7 @@ h2, h3 {
 #char_gal li {
 	list-style-type: circle;
 	float: left;
+	overflow: hidden;
 }
 
 #bottom_main h2{
