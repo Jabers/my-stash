@@ -34,7 +34,7 @@ body {
 	color: none;
 } */
 
-a:hover {
+#main_nav a:hover {
 	color: #fc7e86;
 }
 
