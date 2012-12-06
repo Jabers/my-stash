@@ -103,6 +103,8 @@ ol li {
 #char_gal_one li {
 	list-style-type: none;
 	float: left;
+	height: 50px;
+	width: 50px;
 	border: solid 1px #94040e;
 	margin-left: 15px;
 }
@@ -114,6 +116,8 @@ ol li {
 #char_gal_two li {
 	list-style-type: none;
 	float: left;
+	height: 50px;
+	width: 50px;
 	border: solid 1px #94040e;
 	margin-left: 15px;
 }
