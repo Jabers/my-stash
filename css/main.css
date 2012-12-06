@@ -55,6 +55,7 @@ a:visited {
 	background: rgba(148,4,14,.5);
 	list-style-type: none;
 	color: #FFF;
+	text-decoration: none;
 	float: left;
 }
 
