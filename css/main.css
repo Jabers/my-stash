@@ -105,7 +105,7 @@ ol li {
 }
 
 #char_gal_two {
-	float: left;
+	clear: left;
 }
 
 #char_gal_two li {
