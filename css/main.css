@@ -103,7 +103,7 @@ ol li {
 
 #char_gal_two li {
 	list-style-type: none;
-	float: clear;
+	/*float: clear;*/
 	float: left;
 }
 
