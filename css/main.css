@@ -96,17 +96,13 @@ ol li {
 	overflow: hidden;
 }
 
-#char_gal_one {
-
-}
-
 #char_gal_one li {
 	list-style-type: none;
 	float: left;
 }
 
 #char_gal_two {
-	/*float: left;*/
+	clear: both;
 }
 
 #char_gal_two li {
