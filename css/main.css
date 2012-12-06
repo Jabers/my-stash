@@ -96,8 +96,14 @@ ol li {
 	overflow: hidden;
 }
 
-#char_gal li {
+#char_gal_one li {
 	list-style-type: none;
+	float: left;
+}
+
+#char_gal_two li {
+	list-style-type: none;
+	float: clear;
 	float: left;
 }
 
