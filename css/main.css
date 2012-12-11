@@ -190,6 +190,7 @@ ol li {
 }
 
 #categories {
+	display: block;
 	-moz-column-count: 3; /* Firefox */
 	-webkit-column-count: 3; /* Safari and Chrome */
 	column-count: 3;
