@@ -193,6 +193,7 @@ ol li {
 	-moz-column-count: 3; /* Firefox */
 	-webkit-column-count: 3; /* Safari and Chrome */
 	column-count: 3;
+	padding: 0;
 	-moz-column-gap: 20px; /* Firefox */
 	-webkit-column-gap: 20px; /* Safari and Chrome */
 	column-gap: 20px;
