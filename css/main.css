@@ -132,6 +132,8 @@ body {
 #logo {
 	/*margin: 0;*/
 	border: solid 1px #000000;
+	width: 300px;
+	height: 184px;
 	float: left;
 }
 
