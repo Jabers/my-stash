@@ -4,6 +4,23 @@
 	src: url (http://fonts.googleapis.com/css?family=Gafata|Sanchez:400italic,400)
 }
 
+/* =Media Queries
+============================================ */
+
+	/* Tablet Portrait size to standard 960 (devices and browsers) */
+	@media screen and (min-width: 768px) and (max-width:959px) {
+		#wrapper {background-color: #fff6d2;}
+	}
+	
+	/* Mobile Landscape size to Tablet Portrait */
+	@media only screen and (min-width: 480px) and (max-width: 767px) {
+		#wrapper {background-color: #fff6d2;}
+	}
+	
+	/* Mobile Portrait size to Mobile Landscape size (devices and browsers) */
+	@media only screen and (max-width: 479px) {
+		#wrapper {background-color: #fff6d2;}
+
 html {
 	height: 100%;
 }
