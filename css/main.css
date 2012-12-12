@@ -33,14 +33,15 @@ body {
 /*--background-attachment: fixed--*/
 	background-position: center center;
 	background-color: #fff6d2;
-	width: 800px;
-	margin: 0 auto;
-	font-family: Gafata, sans-serif;
+	max-width: 960px;
+	margin: 36px auto;
+	font-family: 100%/1.5 Gafata, sans-serif;
 	padding: 0;
 }
 
 #wrapper {
-	/*background: #ffffff;*/
+	width: 100%; /*800px*/
+	margin: 0 auto;
 }
 
 /* button 
