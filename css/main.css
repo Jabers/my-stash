@@ -25,7 +25,6 @@ body {
 	width: 100%; /*800px*/
 	margin: 0 auto;
 	padding: 0% 4.375% /* 35px/800px */ 4.475%;
-	border: 1px dotted #424242;
 }
 
 #logo {
@@ -70,13 +69,22 @@ body {
 	-moz-box-shadow: 0 1px 2px rgba(0,0,0,.2);
 	box-shadow: 0 1px 2px rgba(0,0,0,.2);
 }
+
 .button:hover {
 	text-decoration: none;
 }
+
 .button:active {
 	position: relative;
 	top: 1px;
 }
+
+.bigrounded {
+	-webkit-border-radius: 2em;
+	-moz-border-radius: 2em;
+	border-radius: 2em;
+}
+
 .small {
 	font-size: 11px;
 	padding: .2em 1em .275em;
@@ -156,6 +164,29 @@ body {
 }
 /* end green button */
 
+/* rosy */
+.rosy {
+	color: #fae7e9;
+	border: solid 1px #b73948;
+	background: #da5867;
+	background: -webkit-gradient(linear, left top, left bottom, from(#f16c7c), to(#bf404f));
+	background: -moz-linear-gradient(top,  #f16c7c,  #bf404f);
+	filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#f16c7c', endColorstr='#bf404f');
+}
+.rosy:hover {
+	background: #ba4b58;
+	background: -webkit-gradient(linear, left top, left bottom, from(#cf5d6a), to(#a53845));
+	background: -moz-linear-gradient(top,  #cf5d6a,  #a53845);
+	filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#cf5d6a', endColorstr='#a53845');
+}
+.rosy:active {
+	color: #dca4ab;
+	background: -webkit-gradient(linear, left top, left bottom, from(#bf404f), to(#f16c7c));
+	background: -moz-linear-gradient(top,  #bf404f,  #f16c7c);
+	filter:  progid:DXImageTransform.Microsoft.gradient(startColorstr='#bf404f', endColorstr='#f16c7c');
+}
+/* end rosy button */
+
 /* end button colors
 ---------------------------------------------- */
 
@@ -186,6 +217,12 @@ h3 {
 	font-size: 1.250em /* 20px */;
 }
 
+p {
+	font-family: Gafata, sans-serif;
+	color: #4F4C4C;
+	font-size: 1em /* 16px */;
+}
+
 #top_main h2{
 	text-shadow: 4px 4px 4px #aaa;
 }
@@ -209,11 +246,27 @@ ol li {
 	column-gap: 20px;
 }
 
+#aside {
+	font-family: Gafata, sans-serif;
+	font-size: 1.563em /* 25px */;
+	float: right;
+	/*clear: both;*/
+	width: 37.5% /* 300px/800px */;
+	/*height: 250px;*/
+	padding: 0;
+	background-color: rgba(255,255,255,.3);
+	border: 1px dotted #94040e;
+}
+
+#aside p {
+	text-align:center;
+}
+
 #char_gal {
 	width: 46.875% /* 375px/800px */;
 	background-color: rgba(148,4,14,.5);
-	/*overflow: hidden;*/
-	float: left;
+	overflow: hidden;
+	/*float: right;*/
 	padding: 0;
 }
 
@@ -239,33 +292,31 @@ ol li {
 	margin: 0px 15px 15px 0px;
 }
 
-p {
-	font-family: Gafata, sans-serif;
-	color: #4F4C4C;
-	font-size: 1em /* 16px */;
+/*====== Profiles Table ======*/
+table {
+	border-collapse: collapse;
+	border: 1px solid #000;
 }
 
-#aside {
-	/*display: block;*/
-	font-family: Gafata, sans-serif;
-	font-size: 1.563em /* 25px */;
-	/*clear: both;*/
-	float: right;
-	width: 37.5% /* 300px/800px */;
-	/*height: 250px;*/
-	padding: 0;
-	background-color: rgba(255,255,255,.3);
-	border: 1px dotted #94040e;
+td {
+/* 1px black border around each cell */
+	border: 1px solid #000;
+	padding: 0.3em;
 }
 
-article {
-	font-family: Gafata, sans-serif;
-	font-size: 1.563em /* 25px */;
+th {
+	text-align: left;
+	background-color: rgba(0,2,73,.7);
+	color: #fff;
+	padding: 0.3em;
 }
 
-#aside p {
-	text-align:center;
+.odd_row {
+/* for zebra striping */
+	color: #fff6d2;
+	background-color: rgba(0,2,73,.4);
 }
+/*====== End Profiles Table ======*/
 
 #bottom_main {
 	clear: both;
@@ -276,8 +327,15 @@ article {
 }
 
 #cta {
-	background-color: #000249;
+	width: 53%/* 420px/800px */;
+	padding-left: 2%;
+	background-color: rgba(0,2,73,.3);
+	border: 1px dashed #000249;
 	color: #FFF;
+}
+
+#bottom {
+	width:100%;
 }
 
 /* Media Queries
@@ -322,7 +380,7 @@ body {
 }
 
 #wrapper {
-	/*background-color: #fff6d2;*/
+	background-color: #fff6d2;
 	width: 100%;
 	max-width: 70%;
 }

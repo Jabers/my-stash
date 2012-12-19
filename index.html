@@ -77,6 +77,14 @@
 					<p><strong>This is where</strong> the familiar avatars shine! Everyone
 					from the sweet looking princesses to the  strangely cute, fantastical
 					racers are profiled.</p>
+
+			<div id="aside">
+					<aside>
+					  <blockquote>&quot;Auto racing is boring except when a car is going at least 172 miles per hour upside down.&quot;</blockquote>
+						<p>Dave Barry</p> <!-- Read more at http://www.brainyquote.com/quotes/keywords/racing.html#Zy3BlJFKp5mcRPRl.99 -->
+					</aside>
+			</div> <!-- end aside -->
+
 <!-- begin character gallery -->
 				<h3>Character Gallery</h3>
 				<div id="char_gal">
@@ -107,16 +115,77 @@
 					</ul>
 					</div> <!-- end gal two -->
 			</div>
+
+			<section id="char_profile">
+				<h2>PROFILES</h2>
+
+				<table summary="a synopsis of 9 MarioKartWii characters">
+				<caption>CHARACTER DETAILS</caption>
+					<tr>
+						<th>Name</th>
+						<th>Sex</th>
+						<th>Nature</th>
+						<th>Orientation</th>
+					</tr>
+					<tr>
+						<td>Mario</td>
+						<td>male</td>
+						<td>human</td>
+						<td>good guy</td>
+					</tr>
+					<tr class="odd_row" >
+						<td>Luigi</td>
+						<td>male</td>
+						<td>human</td>
+						<td>good guy</td>
+					</tr>
+					<tr>
+						<td>Toad</td>
+						<td>male</td>
+						<td>fantasy</td>
+						<td>good guy</td>
+					</tr>
+					<tr class="odd_row" >
+						<td>Yoshi</td>
+						<td>n/a</td>
+						<td>fantasy</td>
+						<td>good guy</td>
+					</tr>
+					<tr>
+						<td>Princess Peach</td>
+						<td>female</td>
+						<td>human</td>
+						<td>good guy</td>
+					</tr>
+					<tr class="odd_row" >
+						<td>Baby Mario</td>
+						<td>male</td>
+						<td>human</td>
+						<td>good guy</td>
+					</tr>
+					<tr>
+						<td>Baby Luigi</td>
+						<td>male</td>
+						<td>human</td>
+						<td>good guy</td>
+					</tr>
+					<tr class="odd_row" >
+						<td>Wario</td>
+						<td>male</td>
+						<td>fantasy</td>
+						<td>bad guy</td>
+					</tr>
+					<tr>
+						<td>Waluigi</td>
+						<td>male</td>
+						<td>fantasy</td>
+						<td>bad guy</td>
+					</tr>
+				</table>
+			</section>
 <!-- end character gallery -->
-                <div id="aside">
-                <aside>
-					<!-- <article> -->
-					  <blockquote>&quot;Auto racing is boring except when a car is going at least 172 miles per hour upside down.&quot;</blockquote>
-						<p>Dave Barry</p> <!-- Read more at http://www.brainyquote.com/quotes/keywords/racing.html#Zy3BlJFKp5mcRPRl.99 -->
-					<!-- </article> -->
-				</aside>
-                </div> <!-- end aside -->
 			</div> <!-- middel main -->
+            
 			<div id="bottom_main">
 				<a id="go"><h2>GO!</h2></a>
 					<p><strong>Proof positive</strong>, that's what we want! There's
@@ -128,17 +197,98 @@
 					shot-of-the-year trophy!</p>
 					<p>Use the form below to submit a snapshot of your cartoony
 					antics.</p>
-				<section id="form">
-					<div id="cta">
-					<p>Call to action coming soon.</p>
-					</div>
-				</section>
-			</div>
+
+			<section id="cta">
+					<h3>SNAPSHOT SUBMISSION FORM</h3>
+
+					<form method="get" action="index.html">
+
+						<div>
+							<label for="name_first">Your First Name</label>
+							<input type="text" name="name_first" id="name_first"/>
+						</div>
+
+						<div>
+							<form method="get" action="index.html">
+								<p>
+									<label for="character">Which character is your favorite?</label>
+									<select name="character" id="character">
+										<option>Mario</option>
+										<option>Luigi</option>
+										<option>Toad</option>
+										<option>Yoshi</option>
+										<option>Princess Peach</option>
+										<option>Baby Mario</option>
+										<option>Baby Luigi</option>
+										<option>Wario</option>
+										<option>Waluigi</option>
+									</select>
+								</p>
+						</div>
+
+						<div>
+							<form method="get" action="index.html">
+								<p>
+									<label for="vehicle">Which type of vehicle do you prefer?</label>
+									<select name="vehicle" id="vehicle">
+										<option>kart</option>
+										<option>bike</option>
+									</select>
+								</p>
+						</div>
+
+						<div>
+							<form method="get" action="index.html">
+								<p>
+									<label for="course">Which course style is your favorite?</label>
+									<select name="course" id="course">
+										<option>new</option>
+										<option>retro</option>
+									</select>
+								</p>
+						</div>
+
+						<div>
+							<form method="get" action="index.html">
+								<p>
+									<label for="driving">Would you rather race or battle?</label>
+									<select name="driving" id="driving">
+										<option>race</option>
+										<option>battle</option>
+									</select>
+								</p>
+						</div>
+
+						<div>
+							<label for="description">Briefly describe snapshot</label>
+							<br><textarea rows="15" cols="50" name="description" id="description"></textarea>
+						</div>
+
+						<div>
+							<p>
+								<input type="checkbox" name="player" id="player"/>
+								<label for="player">Check here if your character is included in the picture.</label>
+                            </p>
+						</div>
+
+						<div>
+							<form method="post" action="upload.cgi" enctype="multipart/form-data">
+                            	<label for="upload">Choose your file to upload:</label>
+                            	<br><input type="file" name="upload" id="upload" />
+						</div>
+
+						<div>
+							<p><input type="submit" value="Submit form and upload image" class="button rosy bigrounded" /></p>
+						</div>
+					</section>
+				</div>
 			
 			<div id="bottom">
 				<footer>
-					<section id="terms"></section>
-					<section id="copyright"></section>
+					<section id="terms">
+                    	<p>This site is the work-progress of J.B. Sanchez. All rights reserved.
+                        <br>All images are copyright of their respective owners. Mario Kart Wi is the exclusive product of Nintendo Corp.</p>
+                    </section>
 				</footer>
 			</div>
 		
