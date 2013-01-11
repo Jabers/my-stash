@@ -1,5 +1,0 @@
-Git Repo:
-https://github.com/Jabers/my-stash/tree/gh-pages
-
-working site:
-http://jabers.github.com/my-stash/
