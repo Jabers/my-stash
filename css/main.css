@@ -9,6 +9,10 @@ body {
 	width: 790px;
 }
 
+h2 {
+	background: red;
+}
+
 p {
 	color: red;
 	size: 15px;
