@@ -2,3 +2,25 @@ p {
 	color: red;
 	size: 15px;
 }
+
+/* pseudo classes for styling links */
+
+a:link {
+	
+}
+
+a:visited {
+
+}
+
+a:hover {
+
+} /* Since any element can be hovered over this can apply to any element */
+
+a:active {
+
+} /* This applies to when the link is actually being clicked */
+
+E:focus {
+
+} /* primarily useful in forms */
