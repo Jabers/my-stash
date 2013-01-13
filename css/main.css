@@ -13,19 +13,19 @@ p {
 /* pseudo classes for styling links */
 
 a:link {
-	
+	color: #ff28bc;
 }
 
 a:visited {
-
+	color; #bcbcbc;
 }
 
 a:hover {
-
+	color; #0d7cff;
 } /* Since any element can be hovered over this can apply to any element */
 
 a:active {
-
+	color: #9112ff;
 } /* This applies to when the link is actually being clicked */
 
 E:focus {
