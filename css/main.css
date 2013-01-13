@@ -9,9 +9,11 @@ body {
 	width: 790px;
 }
 
-h2 {
-	background: red;
-	width: 300px;
+.demo {
+	background-color: #999;
+	border-width: 3px;
+	border-style: solid;
+	border-color: #666;
 }
 
 p {
