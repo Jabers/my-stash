@@ -31,3 +31,7 @@ a:active {
 E:focus {
 
 } /* primarily useful in forms */
+
+ul {
+	list-style-type: none;
+}
