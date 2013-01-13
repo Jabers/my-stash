@@ -11,9 +11,7 @@ body {
 
 .demo {
 	background-color: #999;
-	border-width: 3px;
-	border-style: solid;
-	border-color: #666;
+	border: 3px solid #666;
 }
 
 p {
