@@ -5,6 +5,10 @@
 	passion purple		9112ff
 --------------------------------------------------*/
 
+body {
+	width: 790px;
+}
+
 p {
 	color: red;
 	size: 15px;
