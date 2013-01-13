@@ -17,11 +17,11 @@ a:link {
 }
 
 a:visited {
-	color; #bcbcbc;
+	color: #bcbcbc;
 }
 
 a:hover {
-	color; #0d7cff;
+	color: #0d7cff;
 } /* Since any element can be hovered over this can apply to any element */
 
 a:active {
