@@ -19,10 +19,6 @@ body {
 	box-shadow: inset 2px 2px 2px #111;
 }
 
-.demo p{
-	color: #ff28bc;
-}
-
 p {
 	color: red;
 	size: 15px;
