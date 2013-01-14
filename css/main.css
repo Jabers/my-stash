@@ -17,7 +17,7 @@ body {
 	-moz-box-shadow: inset 2px 2px 2px #111;
 	-webkit-box-shadow: inset 2px 2px 2px #111;
 	box-shadow: inset 2px 2px 2px #111;
-	padding-left: 5px;
+	padding: 20px 10px 15px 5px;
 }
 
 p {
