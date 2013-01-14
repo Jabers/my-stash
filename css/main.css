@@ -22,6 +22,7 @@ body {
 
 ol li {
 	background: orange;
+	display: inline;
 }
 
 p {
