@@ -17,7 +17,6 @@ body {
 #columns {
 	-moz-column-count: 3;
 	-moz-column-gap: 10px;
-	text-align: justify;
 }
 
 .demo {
