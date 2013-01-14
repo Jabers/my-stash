@@ -14,6 +14,10 @@ body {
 	margin: 0 auto;
 }
 
+#columns {
+	-moz-column-count: 3;
+}
+
 .demo {
 	background-color: #999;
 	border: 3px solid #666;
