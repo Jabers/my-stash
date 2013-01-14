@@ -20,6 +20,10 @@ body {
 	padding: 20px 10px 15px 5px;
 }
 
+ol li {
+	background: orange;
+}
+
 p {
 	color: red;
 	size: 15px;
