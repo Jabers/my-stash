@@ -49,6 +49,7 @@ header {
 #explore {
 	margin: 0;
 	background-color: olive;
+	clear: both;
 }
 
 #photo_gallery {
