@@ -19,6 +19,7 @@ body {
 	-moz-column-gap: 10px;
 }
 
+/* examples-----------------
 .demo {
 	background-color: #999;
 	border: 3px solid #666;
@@ -29,6 +30,7 @@ body {
 	box-shadow: inset 2px 2px 2px #111;
 	padding: 20px 10px 15px 5px;
 }
+--------------------------*/
 
 ol li {
 	background: orange;
