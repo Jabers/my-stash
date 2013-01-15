@@ -16,12 +16,16 @@ body {
 	background-color: #0d7cff;
 }
 
+header {
+	background-color: green;
+}
+
+/* examples-----------------
 #columns {
 	-moz-column-count: 3;
 	-moz-column-gap: 10px;
 }
 
-/* examples-----------------
 .demo {
 	background-color: #999;
 	border: 3px solid #666;
