@@ -7,11 +7,13 @@
 
 body {
 	margin: 0;
+	background-color: #bcbcbc;
 }
 
 #wrapper {
 	width: 800px;
 	margin: 0 auto;
+	background-color: #0d7cff;
 }
 
 #columns {
@@ -39,6 +41,7 @@ ol li {
 
 p {
 	font-size: 15px;
+	background-color: #9112ff;
 }
 
 /* pseudo classes for styling links */
