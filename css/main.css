@@ -38,6 +38,18 @@ header {
 }
 --------------------------*/
 
+#intro {
+	background-color: yellow;
+}
+
+#explore {
+	background-color: olive;
+}
+
+#photo_gallery {
+	background-color: lime;
+}
+
 ol li {
 	background: orange;
 	display: inline;
