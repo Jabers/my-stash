@@ -17,6 +17,7 @@ body {
 }
 
 header {
+	margin: 0;
 	background-color: green;
 }
 
@@ -39,14 +40,17 @@ header {
 --------------------------*/
 
 #intro {
+	margin: 0;
 	background-color: yellow;
 }
 
 #explore {
+	margin: 0;
 	background-color: olive;
 }
 
 #photo_gallery {
+	margin: 0;
 	background-color: lime;
 }
 
