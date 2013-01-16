@@ -12,10 +12,10 @@
 --------------------------------------------------*/
 
 body {
-	margin: 0;
+	/*margin: 0;*/
 	background-image: url(../images/bgCOS.jpg);
-	background-image: no-repeat;
-	background-position: center top;
+	background-repeat: no-repeat;
+	background-position: top;
 	font-family: 'Dosis', sans-serif;
 	font-weight: 400;
 }
