@@ -16,7 +16,7 @@ body {
 	background-repeat: no-repeat;
 	background-position: top;
 	font-family: 'Dosis', sans-serif;
-	font-size: 30px;
+	font-weight: 400;
 }
 
 #wrapper {
@@ -60,10 +60,9 @@ header {
 	clear: left;
 }
 
-/*
 #intro p {
-	font-size: 30px;
-} */
+	font-size: 20px;
+}
 
 #explore {
 	width: 500px;
