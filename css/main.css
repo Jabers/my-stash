@@ -59,6 +59,10 @@ header {
 	float: left;
 }
 
+#explore aside {
+	clear: right;
+}
+
 #photo_gallery {
 	margin: 0;
 	background-color: lime;
