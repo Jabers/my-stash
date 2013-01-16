@@ -141,12 +141,15 @@ ul {
 
 #links {
 	width: 300px;
+	padding: 10px;
 	background-color: rgba(0,61,115,0.5);
-	/*float: left;*/
+	border-radius: 10px;
+	float: left;
 }
 
 #subscription_form {
 	width: 500px;
+	padding: 10px;
 	background-color: #003d73;
 	color: #fff;
 	border-radius: 10px;
