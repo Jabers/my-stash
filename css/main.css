@@ -17,8 +17,8 @@ body {
 }
 
 header {
-	display: inline;
-	/*margin: 0;*/
+	/*display: inline;*/
+	margin: 0;
 	background-color: white;
 	float: left;
 }
