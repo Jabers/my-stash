@@ -73,10 +73,15 @@ header {
 	float: left;
 }
 
+#explore p {
+	font-size: 20px;
+}
+
 #main_nav ul li{
 	display: inline;
 	float: left;
 	margin: 0 10px;
+	font-size: 20px;
 }
 
 aside {
