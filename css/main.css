@@ -50,13 +50,13 @@ header {
 }
 
 #explore {
-	display: inline;
-	/*overflow: auto;*/
+	overflow: auto;
 	margin: 0;
 	background-color: olive;
 }
 
 #main_nav ul li{
+	display: inline;
 	float: left;
 }
 
