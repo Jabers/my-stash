@@ -13,8 +13,7 @@
 
 body {
 	margin: 0;
-	/*background-color: #fff;*/
-	background-image: images/COSbg.jpg;
+	background-image: url(../images/COSbg.jpg);
 	font-family: 'Dosis', sans-serif;
 	font-weight: 400;
 }
