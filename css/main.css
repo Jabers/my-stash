@@ -51,7 +51,7 @@ header {
 
 #explore {
 	display: inline;
-	overflow: auto;
+	/*overflow: auto;*/
 	margin: 0;
 	background-color: olive;
 }
