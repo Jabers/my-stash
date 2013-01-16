@@ -60,7 +60,7 @@ header {
 }
 
 #explore aside {
-	clear: right;
+	float: right;
 }
 
 #photo_gallery {
