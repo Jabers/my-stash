@@ -139,6 +139,14 @@ ul {
 	list-style-type: none;
 }
 
+#subscription_form {
+	background-color: #003d73;
+}
+
+#subscription_form p {
+	color: #fff;
+}
+
 /* examples-----------------
 #columns {
 	-moz-column-count: 3;
