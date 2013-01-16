@@ -51,7 +51,7 @@ header {
 #intro {
 	margin: 0;
 	color: #fff;
-	text-shadow: 0px 1px 0px #000;
+	text-shadow: 0px 1px 0px #000, 0px 0px 6px #000;
 	clear: left;
 }
 
