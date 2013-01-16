@@ -59,14 +59,13 @@ header {
 	float: left;
 }
 
-/*#explore aside {
-	float: right;
-}*/
+aside {
+	clear: left;
+}
 
 #photo_gallery {
 	margin: 0;
 	background-color: lime;
-	clear: both;
 }
 
 ol li {
