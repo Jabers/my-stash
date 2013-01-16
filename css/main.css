@@ -96,7 +96,7 @@ header {
 	/*font-weight: 400;*/
 	text-align: center;
 	text-decoration: none;
-	font: 20px/100% 'Dosis', Helvetica, sans-serif;
+	font: 14px/100% 'Dosis', Helvetica, sans-serif;
 	padding: .5em 2em .55em;
 	text-shadow: 0 1px 1px rgba(0,0,0,.3);
 	-webkit-border-radius: .5em; 
@@ -114,7 +114,7 @@ header {
 	top: 1px;
 }
 .medium {
-	font-size: 12px;
+	font-size: 20px;
 	padding: .4em 1.5em .42em;
 }
 /* white */
