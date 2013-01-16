@@ -114,6 +114,7 @@ ol li {
 
 a:link {
 	color: #ff6347;
+	text-decoration: none;
 }
 
 a:visited {
