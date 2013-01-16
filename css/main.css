@@ -50,7 +50,7 @@ header {
 }
 
 #explore {
-	/*display: inline;*/
+	display: inline;
 	overflow: auto;
 	margin: 0;
 	background-color: olive;
