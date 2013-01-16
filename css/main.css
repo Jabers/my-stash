@@ -66,7 +66,7 @@ header {
 #photo_gallery {
 	margin: 0;
 	background-color: lime;
-	clear: left;
+	clear: both;
 }
 
 ol li {
