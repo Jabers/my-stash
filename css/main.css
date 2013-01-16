@@ -50,12 +50,12 @@ header {
 }
 
 #explore {
+	display: inline;
 	margin: 0;
 	background-color: olive;
 }
 
 #main_nav {
-	display: inline;
 	float: left;
 }
 
