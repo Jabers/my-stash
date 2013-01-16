@@ -1,8 +1,7 @@
 /* Color Swatch ------------------------------------
-	hot pink			ff28bc
-	sexy silver			bcbcbc
-	electric blue		0d7cff
-	passion purple		9112ff
+	colorado blue		003d73
+	colorado green		ccbe00
+	colorado red		cd1c24
 --------------------------------------------------*/
 
 body {
@@ -13,7 +12,7 @@ body {
 #wrapper {
 	width: 800px;
 	margin: 0 auto;
-	background-color: #0d7cff;
+	background-color: #fff;
 }
 
 header {
