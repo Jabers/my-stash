@@ -69,7 +69,7 @@ header {
 	overflow: auto;
 	margin: 0;
 	padding: 0;
-	background-color: olive;
+	color: #fff;
 	float: left;
 }
 
@@ -88,11 +88,12 @@ aside {
 	width: 300px;
 	background-color: orange;
 	float: right;
+	border-radius: 7px;
 }
 
 #photo_gallery {
 	margin: 0;
-	background-color: lime;
+	color: #fff;
 	clear: both;
 }
 
@@ -105,11 +106,6 @@ ol li {
 	display: inline;
 	font-size: 20px;
 }
-/*
-p {
-	font-size: 15px;
-	/* background-color: #9112ff; */
-}*/
 
 /* pseudo classes for styling links */
 
