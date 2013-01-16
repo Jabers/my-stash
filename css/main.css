@@ -141,7 +141,8 @@ ul {
 
 #links {
 	width: 300px;
-	float left;
+	background-color: rgba(0,61,115,0.5);
+	float: left;
 }
 
 #subscription_form {
