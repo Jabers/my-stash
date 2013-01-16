@@ -1,7 +1,7 @@
 /* Color Swatch ------------------------------------
-	colorado blue		003d73
-	colorado green		ccbe00
-	colorado red		cd1c24
+	colorado blue		003d73	rgba(0,61,115,1.0)
+	colorado green		ccbe00	rgba(204,190,0,1.0)
+	colorado red		cd1c24	rgba(237,28,36,1.0)
 --------------------------------------------------*/
 
 /* Font to be used ---------------------------------
@@ -86,9 +86,9 @@ header {
 
 aside {
 	width: 300px;
-	background-color: orange;
+	background-color: rgba(255,165,0,0.8);
 	float: right;
-	border-radius: 7px;
+	border-radius: 10px;
 }
 
 #photo_gallery {
