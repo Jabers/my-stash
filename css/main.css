@@ -96,15 +96,20 @@ aside {
 	clear: both;
 }
 
+#photo_gallery p {
+	font-size: 20px;
+}
+
 ol li {
 	background: orange;
 	display: inline;
+	font-size: 20px;
 }
-
+/*
 p {
 	font-size: 15px;
 	/* background-color: #9112ff; */
-}
+}*/
 
 /* pseudo classes for styling links */
 
