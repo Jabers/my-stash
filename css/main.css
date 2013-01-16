@@ -52,6 +52,7 @@ header {
 #explore {
 	overflow: auto;
 	margin: 0;
+	padding: 0;
 	background-color: olive;
 }
 
