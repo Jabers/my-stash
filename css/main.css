@@ -81,6 +81,7 @@ header {
 	display: inline;
 	float: left;
 	margin: 0 10px;
+	background-color: rgba(255,255,255,0.8);
 	font-size: 20px;
 }
 
@@ -133,7 +134,6 @@ E:focus {
 } /* primarily useful in forms */
 
 ul {
-	background-color: rgba(255,255,255,0.8);
 	list-style-type: none;
 }
 
