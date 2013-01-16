@@ -139,7 +139,13 @@ ul {
 	list-style-type: none;
 }
 
+#links {
+	width: 300px;
+	float left;
+}
+
 #subscription_form {
+	width: 500px;
 	background-color: #003d73;
 	color: #fff;
 	border-radius: 10px;
