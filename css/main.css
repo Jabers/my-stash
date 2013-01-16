@@ -17,31 +17,13 @@ body {
 
 header {
 	margin: 0;
-	background-color: white;
+	/*background-color: white;*/
 }
 
 #logo {
 	float: left;
 	margin: 0 30px 0;
 }
-
-/* examples-----------------
-#columns {
-	-moz-column-count: 3;
-	-moz-column-gap: 10px;
-}
-
-.demo {
-	background-color: #999;
-	border: 3px solid #666;
-	border-top-left-radius: 20px;
-	border-bottom-right-radius: 20px;
-	-moz-box-shadow: inset 2px 2px 2px #111;
-	-webkit-box-shadow: inset 2px 2px 2px #111;
-	box-shadow: inset 2px 2px 2px #111;
-	padding: 20px 10px 15px 5px;
-}
---------------------------*/
 
 #intro {
 	margin: 0;
@@ -50,6 +32,7 @@ header {
 }
 
 #explore {
+	width: 500px;
 	overflow: auto;
 	margin: 0;
 	padding: 0;
@@ -63,6 +46,8 @@ header {
 }
 
 aside {
+	width: 300px;
+	background-color: orange;
 	clear: left;
 }
 
@@ -106,3 +91,21 @@ E:focus {
 ul {
 	list-style-type: none;
 }
+
+/* examples-----------------
+#columns {
+	-moz-column-count: 3;
+	-moz-column-gap: 10px;
+}
+
+.demo {
+	background-color: #999;
+	border: 3px solid #666;
+	border-top-left-radius: 20px;
+	border-bottom-right-radius: 20px;
+	-moz-box-shadow: inset 2px 2px 2px #111;
+	-webkit-box-shadow: inset 2px 2px 2px #111;
+	box-shadow: inset 2px 2px 2px #111;
+	padding: 20px 10px 15px 5px;
+}
+--------------------------*/
