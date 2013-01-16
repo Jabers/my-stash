@@ -55,7 +55,7 @@ header {
 	background-color: olive;
 }
 
-#main_nav {
+#main_nav ul li{
 	float: left;
 }
 
