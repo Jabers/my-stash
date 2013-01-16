@@ -28,7 +28,7 @@ header {
 #intro {
 	margin: 0;
 	background-color: yellow;
-	/*clear: left;*/
+	clear: left;
 }
 
 #explore {
