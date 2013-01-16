@@ -16,7 +16,6 @@ body {
 }
 
 header {
-	/*display: inline;*/
 	margin: 0;
 	background-color: white;
 	float: left;
@@ -49,6 +48,11 @@ header {
 	margin: 0;
 	background-color: olive;
 	clear: both;
+}
+
+#main_nav {
+	display: inline;
+	float: left;
 }
 
 #photo_gallery {
