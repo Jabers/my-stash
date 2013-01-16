@@ -27,19 +27,19 @@ body {
 
 h1 {
 	font-family: 'Dosis', sans-serif;
-	font-weight: 800;
+	/*font-weight: 800;*/
 	color: #cd1c24;
 	text-shadow: 2px 2px #003d73;
 }
 
 h2 h3 {
 	font-family: 'Dosis', sans-serif;
-	font-weight: 500;
+	/*font-weight: 500;*/
 }
 
  h4 h5 h6 {
  	font-family: 'Dosis', sans-serif;
-	font-weight: 400;
+	/*font-weight: 400;*/
  }
 
 header {
