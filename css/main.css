@@ -112,19 +112,20 @@ ol li {
 /* pseudo classes for styling links */
 
 a:link {
-	color: #ff28bc;
+	color: #ff6347;
 }
 
 a:visited {
-	color: #bcbcbc;
+	color: #0ff;
 }
 
 a:hover {
-	color: #0d7cff;
+	color: #fff;
+	text-shadow: 0px 1px 0px #000, 0px 0px 6px #000;
 } /* Since any element can be hovered over this can apply to any element */
 
 a:active {
-	color: #9112ff;
+	color: #00ff7f;
 } /* This applies to when the link is actually being clicked */
 
 E:focus {
