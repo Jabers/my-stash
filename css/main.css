@@ -21,6 +21,7 @@ body {
 }
 
 #wrapper {
+	background-color: #fff;
 	width: 800px;
 	margin: 0 auto;
 }
