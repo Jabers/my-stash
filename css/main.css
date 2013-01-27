@@ -245,7 +245,7 @@ ul {
 }
 
 #subscription_form {
-	display: block;
+	/*display: block;*/
 	width: 60%; /* 480px /800px */
 	padding: 10px;
 	background-color: #003d73;
