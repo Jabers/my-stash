@@ -74,6 +74,7 @@ header {
 #world_champs {
 	background-color: rgba(204,190,0,.8);
 	border-radius: 10px;
+	font-size: 12px;
 	text-align: center;
 	/* padding: 5px; */
 }
