@@ -237,7 +237,6 @@ ul {
 
 #links {
 	display: block;
-	margin: 0 auto;
 	width: 40%; /* 320px /800px */
 	padding: 10px;
 	background-color: rgba(0,61,115,0.5);
