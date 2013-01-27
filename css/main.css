@@ -79,6 +79,10 @@ header {
 	/* padding: 5px; */
 }
 
+#world_champs h4 {
+	display: block;
+}
+
 #explore {
 	width: 500px;
 	overflow: hidden;
