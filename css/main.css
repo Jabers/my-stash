@@ -71,6 +71,10 @@ header {
 	column-count:3;
 }
 
+#world_champs {
+	background-color: #ccbe00;
+}
+
 #explore {
 	width: 500px;
 	overflow: hidden;
