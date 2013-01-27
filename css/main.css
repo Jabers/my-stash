@@ -240,8 +240,7 @@ ul {
 	padding: 10px;
 	background-color: rgba(0,61,115,0.5);
 	border-radius: 10px;
-	clear: both;
-	float: left;
+	/*float: left;*/
 }
 
 #subscription_form {
@@ -250,7 +249,7 @@ ul {
 	background-color: #003d73;
 	color: #fff;
 	border-radius: 10px;
-	float: right;
+	/*float: right;*/
 }
 
 /* examples-----------------
