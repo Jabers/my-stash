@@ -244,13 +244,12 @@ ul {
 }
 
 #subscription_form {
-	display: block;
 	width: 57.5%; /* (480px - 20px padding) 460px /800px */
 	padding: 10px;
 	background-color: #003d73;
 	color: #fff;
 	border-radius: 10px;
-	/*float: right;*/
+	float: right;
 }
 
 /* examples-----------------
