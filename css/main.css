@@ -53,7 +53,7 @@ header {
 
 #logo {
 	float: left;
-	margin: 0 20px 0 106px;
+	margin: 0 2.5% /* 20px/800px */ 0 13.25% /* 106px/800px */;
 }
 
 #intro {
@@ -160,7 +160,7 @@ header {
 #main_nav ul li{
 	display: inline;
 	float: left;
-	margin: 0 10px;
+	margin: 0 2% /* 10px/500px */;
 	font-size: 20px;
 }
 
@@ -199,8 +199,8 @@ aside {
 }
 
 ol li {
-	margin: 10px;
-	padding: 10px;
+	margin: 1.25% /* 10px/800px */;
+	padding: 1.25% /* 10px/800px */;
 	border: solid 1px #fff;
 	background: orange;
 	display: inline;
@@ -238,7 +238,7 @@ ul {
 
 #links {
 	width: 37.5%; /* (320px - 20px padding) 300px /800px */
-	padding: 5px 10px;
+	padding: 1.6666666666667% /* 5px/300px */ 3.3333333333333% /* 10px/300px */;
 	background-color: rgba(0,61,115,0.3);
 	border-radius: 10px;
 	float: left;
@@ -246,7 +246,7 @@ ul {
 
 #subscription_form {
 	width: 57.5%; /* (480px - 20px padding) 460px /800px */
-	padding: 5px 10px;
+	padding: 1.0869565217391% /* 5px/460px */ 2.1739130434783% /* 10px/460px */;
 	background-color: rgba(0,61,115,0.5);
 	color: #fff;
 	border-radius: 10px;
