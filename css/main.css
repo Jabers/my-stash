@@ -263,9 +263,9 @@ ul {
 
 /* Tablet Portrait size to standard 960 (devices and browsers) */
 @media screen and (min-width: 768px) and (max-width:799px) {
-	#logo {
+	/*#logo {
 		float: none;
-	}
+	}*/
 	
 	#columns {
 	-moz-column-count:0; /* Firefox */
