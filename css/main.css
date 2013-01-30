@@ -338,6 +338,11 @@ ul {
 		display: none;
 	}
 	
+	#main_sections {
+		color: #003d73;
+		text-shadow: none;
+	}
+	
 	#links {
 		width: 100%;
 		float: none;
