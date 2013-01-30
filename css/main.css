@@ -347,7 +347,7 @@ ul {
 	}
 	
 	.button white medium {
-		margin: none;
+		display: block;
 	}
 	
 	#explore h3 {
