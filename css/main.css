@@ -364,16 +364,14 @@ ul {
 	}
 	
 	#footer {
-		display: block;
 		max-width: 100%;
 		color: #003d73;
 		text-shadow: none;
 	}
 	
 	#links {
-		max-width: 100%;
 		float: none;
-		/* margin: 0 auto 10px; */
+		margin: 0 auto 10px;
 	}
 	
 	#links ul li {
@@ -385,8 +383,7 @@ ul {
 	}
 	
 	#subscription_form {
-		max-width: 100%;
-		/* margin: 0 auto; */
+		margin: 0 auto;
 		color: #003d73;
 		float: none;
 	}
