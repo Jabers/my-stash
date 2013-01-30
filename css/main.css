@@ -380,4 +380,8 @@ ul {
 		float: none;
 	}
 	
+	#table {
+		clear: both;
+	}
+	
 }
