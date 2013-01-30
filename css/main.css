@@ -373,6 +373,10 @@ ul {
 		float: none;
 	}
 	
+	#links ul li {
+		display: inline;
+	}
+	
 	#subscription_form {
 		width: 100%;
 		float: none;
