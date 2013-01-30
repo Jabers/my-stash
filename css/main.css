@@ -342,14 +342,11 @@ ul {
 	
 	#explore {
 		background-color: #ccbe00;
+		float: none;
 	}
 	
 	#explore h3 {
 		color: #003d73;
-	}
-	
-	#main_nav {
-		float: none;
 	}
 	
 	#photo_gallery h3 {
