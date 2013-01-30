@@ -243,6 +243,7 @@ ul {
 }
 
 #links {
+	display: inline;
 	width: 44.75%; /* (400px - 20px padding) 380px /800px */
 	padding: 0 2.6315789%; /* 10px/380px */
 	background-color: rgba(0,61,115,0.3);
