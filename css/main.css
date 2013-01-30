@@ -322,10 +322,12 @@ ul {
 	}
 	
 	#links {
+		width: 100%;
 		float: none;
 	}
 	
 	#subscription_form {
+		width: 100%;
 		float: none;
 	}
 	
