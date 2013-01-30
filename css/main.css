@@ -344,6 +344,10 @@ ul {
 		color: #003d73;
 	}
 	
+	#main_nav {
+		float: none;
+	}
+	
 	#photo_gallery h3 {
 		color: #003d73;
 	}
