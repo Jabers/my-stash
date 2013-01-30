@@ -15,8 +15,7 @@ body {
 	max-width: 800px;
 	margin: 0 auto;
 	background-color: #632726;
-	background-image: url(../images/COS_bg.jpg) opacity:0.8;
-filter:alpha(opacity=40); /* For IE8 and earlier */;
+	background-image: url(../images/COS_bg.jpg);
 	background-repeat: no-repeat;
 	background-position: top;
 	font: 100%/1.5 'Dosis', sans-serif;
