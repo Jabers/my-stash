@@ -375,6 +375,7 @@ ul {
 	
 	#links ul li {
 		display: inline;
+		list-style-type: square;
 	}
 	
 	#subscription_form {
