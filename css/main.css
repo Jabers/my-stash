@@ -243,7 +243,7 @@ ul {
 }
 
 #links {
-	width: 50%; /* (320px - 20px padding) 300px /800px */
+	width: 47.5%; /* (400px - 20px padding) 380px /800px */
 	padding: 0 /* 1.6666666666667% 5px/300px */ 3.3333333333333% /* 10px/300px */;
 	background-color: rgba(0,61,115,0.3);
 	border-radius: 10px;
@@ -251,7 +251,7 @@ ul {
 }
 
 #subscription_form {
-	width: 50%; /* (480px - 20px padding) 460px /800px */
+	width: 47.5%; /* (400px - 20px padding) 380px /800px */
 	padding: 0 /* 1.0869565217391% 5px/460px */ 2.1739130434783% /* 10px/460px */;
 	background-color: rgba(0,61,115,0.5);
 	color: #fff;
