@@ -197,13 +197,6 @@ aside {
 	text-shadow: 0px 1px 0px #000, 0px 0px 6px #000;
 }
 
-#footer {
-	/* width: 100%; same width as wrapper */
-	color: #fff;
-	font-size: 1.25em; /*20px*/
-	text-shadow: 0px 1px 0px #000, 0px 0px 6px #000;
-}
-
 ol li {
 	margin: 1.25% /* 10px/800px */;
 	padding: 1.25% /* 10px/800px */;
@@ -211,6 +204,13 @@ ol li {
 	background: orange;
 	display: inline;
 	font-size: 1.25em; /*20px*/
+}
+
+#footer {
+	/* width: 100%; same width as wrapper */
+	color: #fff;
+	font-size: 1.25em; /*20px*/
+	text-shadow: 0px 1px 0px #000, 0px 0px 6px #000;
 }
 
 /* pseudo classes for styling links */
