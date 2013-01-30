@@ -247,7 +247,7 @@ ul {
 	padding: 0 2.6315789%; /* 10px/380px */
 	background-color: rgba(0,61,115,0.3);
 	border-radius: 10px;
-	/* float: left; */
+	float: left;
 }
 
 #subscription_form {
@@ -256,7 +256,7 @@ ul {
 	background-color: rgba(0,61,115,0.5);
 	color: #fff;
 	border-radius: 10px;
-	float: right;
+	/* float: right; */
 }
 
 /* Media Queries ---------------------------------------------------------------
