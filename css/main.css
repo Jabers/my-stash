@@ -25,7 +25,6 @@ body {
 #wrapper {
 	width: 100%; /* 800px */;
 	margin: 0 auto;
-	padding: 1.25%; /* 10px/800px */
 	background-color: rgba(255,255,255,0.8);
 }
 
@@ -47,7 +46,7 @@ h2 h3 {
  }
 
 header {
-	width: 25%; /* 600px/800px */
+	width: 100%; /* same width as wrapper */
 	padding: 10px 0;
 	/*background-color: rgba(255,255,255,0.8);
 	border-radius: 10px;*/
@@ -56,7 +55,7 @@ header {
 #logo {
 	float: left;
 	margin: 0 2.5% /* 20px/800px */ 0 13.25% /* 106px/800px */;
-	width: 33.333333%; /* 200px/600px */
+	width: 25%; /* 200px/800px */
 }
 
 #logo img {
