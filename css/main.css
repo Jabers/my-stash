@@ -341,6 +341,7 @@ ul {
 	}
 	
 	#explore {
+		width: 100%;
 		background-color: #ccbe00;
 		float: none;
 	}
