@@ -343,8 +343,7 @@ ul {
 	#explore {
 		width: 100%;
 		background-color: #ccbe00;
-		float: none;
-		overflow: none;
+		/*float: none;*/
 	}
 	
 	#explore h3 {
