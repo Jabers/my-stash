@@ -15,7 +15,7 @@ body {
 	max-width: 800px;
 	margin: 0 auto;
 	background-color: #632726;
-	background-image: url(../images/COS_bg.jpg) opacity:0.4;
+	background-image: url(../images/COS_bg.jpg) opacity:0.8;
 filter:alpha(opacity=40); /* For IE8 and earlier */;
 	background-repeat: no-repeat;
 	background-position: top;
