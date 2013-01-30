@@ -264,7 +264,7 @@ ul {
 /* Tablet Portrait size to standard 960 (devices and browsers) */
 @media screen and (min-width: 768px) and (max-width:799px) {
 
-	header {
+	#wrapper {
 		width: auto;
 	}
 
@@ -283,7 +283,7 @@ ul {
 /* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
 @media only screen and (min-width: 480px) and (max-width:767px) {
 
-	header {
+	#wrapper {
 		width: auto;
 	}
 
@@ -302,7 +302,7 @@ ul {
 /* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
 @media only screen and (max-width:479px) {
 
-	header {
+	#wrapper {
 		width: auto;
 	}
 
