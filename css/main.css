@@ -299,11 +299,16 @@ ul {
 @media only screen and (max-width:479px) {
 
 	body {
+		background-color: #fff;
 		background-image: none;
 	}
 
+	header {
+		background-color: none;
+	}
 
 	#logo {
+		margin: 0 auto;
 		float: none;
 	}
 	
