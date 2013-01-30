@@ -312,4 +312,8 @@ ul {
 	column-count:auto;
 	}
 	
+	#world_champs {
+		display: none;
+	}
+	
 }
