@@ -342,13 +342,10 @@ ul {
 	
 	#explore {
 		width: 100%;
-		background-color: #ccbe00;
-		/*float: none;*/
 	}
 	
 	#main_nav ul li {
 		display: inline;
-		/* float: left; */
 		margin: 0;
 	}
 
