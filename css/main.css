@@ -369,7 +369,7 @@ ul {
 	}
 	
 	#links {
-		max-width: 62.63048%;
+		max-width: 439px;
 		float: none;
 		margin: 0 auto 10px;
 	}
@@ -383,7 +383,7 @@ ul {
 	}
 	
 	#subscription_form {
-		max-width: 100%;
+		max-width: 439px;
 		margin: 0 auto;
 		color: #003d73;
 		float: none;
