@@ -375,6 +375,9 @@ ul {
 	
 	#links ul li {
 		display: inline;
+	}
+	
+	#links ul {
 		list-style-type: square;
 	}
 	
