@@ -251,8 +251,8 @@ ul {
 }
 
 #subscription_form {
-	width: 50%; /* (400px - 20px padding) 380px /800px */
-	/* padding: 0 /* 1.0869565217391%; 5px/460px 2.1739130434783% 10px/460px */
+	width: 44.75%; /* (400px - 20px padding) 380px /800px */
+	padding: 0 2.6315789%; /* 10px/380px */
 	background-color: rgba(0,61,115,0.5);
 	color: #fff;
 	border-radius: 10px;
