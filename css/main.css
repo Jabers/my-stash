@@ -256,7 +256,8 @@ ul {
 	background-color: rgba(0,61,115,0.5);
 	color: #fff;
 	border-radius: 10px;
-	/* float: right; */
+	clear: left;
+	float: right;
 }
 
 /* Media Queries ---------------------------------------------------------------
