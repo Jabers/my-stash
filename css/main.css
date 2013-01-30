@@ -207,7 +207,7 @@ ol li {
 }
 
 #footer {
-	/* width: 100%; same width as wrapper */
+	width: 100%; /* same width as wrapper */
 	color: #fff;
 	font-size: 1.25em; /*20px*/
 	text-shadow: 0px 1px 0px #000, 0px 0px 6px #000;
