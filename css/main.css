@@ -278,10 +278,6 @@ ul {
 		background-image: none;
 	}
 
-	#logo {
-		float: none;
-	}
-	
 	#columns {
 	-moz-column-count:auto; /* Firefox */
 	-webkit-column-count:auto; /* Safari and Chrome */
