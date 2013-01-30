@@ -321,4 +321,12 @@ ul {
 		display: none;
 	}
 	
+	#links {
+		float: none;
+	}
+	
+	#subscription_form {
+		float: none;
+	}
+	
 }
