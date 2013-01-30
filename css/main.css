@@ -344,6 +344,7 @@ ul {
 		width: 100%;
 		background-color: #ccbe00;
 		float: none;
+		overflow: none;
 	}
 	
 	#explore h3 {
