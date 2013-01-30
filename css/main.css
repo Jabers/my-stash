@@ -53,7 +53,7 @@ header {
 
 #logo {
 	float: left;
-	margin: 0 2.5% /* 20px/800px */ 0 13.25% /* 106px/800px */;
+	/* margin: 0 2.5% /* 20px/800px */ 0 13.25% /* 106px/800px */; */
 	width: 25%; /* 200px/800px */
 }
 
@@ -258,8 +258,8 @@ ul {
 	float: right;
 }
 
-/* Media Queries
---------------------------*/
+/* Media Queries ---------------------------------------------------------------
+------------------------------------------------------------------------------*/
 
 /* Tablet Portrait size to standard 960 (devices and browsers) */
 @media screen and (min-width: 768px) and (max-width:799px) {
