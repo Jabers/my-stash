@@ -57,6 +57,10 @@ header {
 	width: 25%; /* 200px/800px */
 }
 
+#logo img {
+	max-width: 100%;
+}
+
 #intro {
 	width: 100%; /* same width as wrapper */
 	margin: 0;
