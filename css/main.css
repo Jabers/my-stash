@@ -364,7 +364,7 @@ ul {
 	}
 	
 	#footer {
-		margin: 100%;
+		max-width: 100%;
 		color: #003d73;
 		text-shadow: none;
 	}
