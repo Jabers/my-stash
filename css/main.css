@@ -339,6 +339,10 @@ ul {
 		display: none;
 	}
 	
+	#explore {
+		overflow: visible;
+	}
+	
 	#explore h3 {
 		color: #003d73;
 	}
