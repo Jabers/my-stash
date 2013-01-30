@@ -376,11 +376,12 @@ ul {
 	
 	#links ul li {
 		display: inline;
-	}
-	
-	#links ul {
 		list-style-type: square;
 	}
+	
+/*	#links ul {
+		list-style-type: square;
+	} */
 	
 	#subscription_form {
 		max-width: 100%;
