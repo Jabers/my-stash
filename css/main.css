@@ -45,8 +45,8 @@ h2 h3 {
  }
 
 header {
-	width: 100%; /* same width as wrapper */
-	padding: 10px 0;
+	width: 75%; /* 600px/800px */
+	padding: 10px .83333333%; /* 5px/600px */
 	background-color: rgba(255,255,255,0.8);
 	border-radius: 10px;
 }
