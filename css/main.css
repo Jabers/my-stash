@@ -258,20 +258,20 @@ ul {
 	float: right;
 }
 
-/* examples-----------------
-#columns {
-	-moz-column-count: 3;
-	-moz-column-gap: 10px;
+/* Media Queries
+--------------------------*/
+
+/* Tablet Portrait size to standard 960 (devices and browsers) */
+@media screen and (min-width: 768px) and (max-width:799px) {
+
 }
 
-.demo {
-	background-color: #999;
-	border: 3px solid #666;
-	border-top-left-radius: 20px;
-	border-bottom-right-radius: 20px;
-	-moz-box-shadow: inset 2px 2px 2px #111;
-	-webkit-box-shadow: inset 2px 2px 2px #111;
-	box-shadow: inset 2px 2px 2px #111;
-	padding: 20px 10px 15px 5px;
+/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
+@media only screen and (min-width: 480px) and (max-width:767px) {
+
 }
---------------------------*/
+
+/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
+@media only screen and (max-width:479px) {
+
+}
