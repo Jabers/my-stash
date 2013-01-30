@@ -316,4 +316,8 @@ ul {
 		display: none;
 	}
 	
+	aside {
+		float: none;
+	}
+	
 }
