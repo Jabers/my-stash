@@ -363,6 +363,11 @@ ul {
 		text-shadow: none;
 	}
 	
+	#footer {
+		color: #003d73;
+		text-shadow: none;
+	}
+	
 	#links {
 		width: 100%;
 		float: none;
