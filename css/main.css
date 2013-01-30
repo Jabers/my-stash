@@ -289,6 +289,10 @@ ul {
 		float: none;
 	}
 	
+	aside {
+		display: none;
+	}
+	
 }
 
 /* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
