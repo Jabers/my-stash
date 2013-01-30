@@ -314,6 +314,10 @@ ul {
 		float: none;
 	}
 	
+	#intro {
+	color: #003d73;
+	}
+	
 	#columns {
 	-moz-column-count:auto; /* Firefox */
 	-webkit-column-count:auto; /* Safari and Chrome */
