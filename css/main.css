@@ -339,6 +339,14 @@ ul {
 		display: none;
 	}
 	
+	#explore h3 {
+		color: #003d73;
+	}
+	
+	#photo_gallery {
+		color: #003d73;
+	}
+	
 	#menu_sections {
 		color: #003d73;
 		text-shadow: none;
