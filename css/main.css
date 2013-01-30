@@ -46,6 +46,7 @@ h2 h3 {
 
 header {
 	width: 75%; /* 600px/800px */
+	margin: 0 auto;
 	padding: 10px .83333333%; /* 5px/600px */
 	background-color: rgba(255,255,255,0.8);
 	border-radius: 10px;
