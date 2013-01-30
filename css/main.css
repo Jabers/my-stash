@@ -304,6 +304,11 @@ ul {
 		margin: 10px;
 		color: #003d73;
 	}
+	
+	h2 h3 h4 h5 h6 {
+		color: #003d73;
+		text-shadow: none;
+	}
 
 	header {
 		background-color: none;
@@ -315,7 +320,8 @@ ul {
 	}
 	
 	#intro {
-	color: #003d73;
+		color: #003d73;
+		text-shadow: none;
 	}
 	
 	#columns {
