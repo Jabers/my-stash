@@ -163,7 +163,7 @@ header {
 /* end button
 ----------------------------------------------------- */
 
-#main_nav ul li{
+#main_nav ul li {
 	display: inline;
 	float: left;
 	margin: 0 2% /* 10px/500px */;
@@ -346,9 +346,12 @@ ul {
 		/*float: none;*/
 	}
 	
-	.button white medium {
-		display: block;
+	#main_nav ul li {
+		display: inline;
+		/* float: left; */
+		margin: 0;
 	}
+
 	
 	#explore h3 {
 		color: #003d73;
