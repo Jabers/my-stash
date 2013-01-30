@@ -346,6 +346,11 @@ ul {
 		/*float: none;*/
 	}
 	
+	.button {
+		padding: none;
+		margin: none;
+	}
+	
 	#explore h3 {
 		color: #003d73;
 	}
