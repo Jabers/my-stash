@@ -109,6 +109,7 @@
 				  <h3>Subscribe to monthly e-letter:</h3>
 					<form method="get" action="forms.html"> <!-- other action is "mailto:example@example.com" -->
 				   
+				   <div id="contact_info">
 						<div>
 							<label for="name_first">First Name</label> <!-- used to label a control so users know what to do -->
 							<input type="text" name="name_first" id="name_first"/> <!-- allows user to  enter data -->
@@ -142,13 +143,14 @@
 								<option>Just starting to be serious</option>
 							</select>
 						</div>
+					</div> <!-- end conact_info -->
 
-						<div>
+						<div id="description">
 							<label for="message">Brief description of running experience(s):</label>
 							<textarea rows="15" cols="40" name="message" id="message"></textarea>
 						</div>
 
-						<div id="checkbox">
+						<div>
 							<p>
 								<input type="checkbox" name="submit" id="submit"/>
 								<label for="submit">You may contact me by phone.</label>

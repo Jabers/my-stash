@@ -250,6 +250,18 @@ ol li {
 	border-radius: 10px;
 }
 
+#contact_info {
+	float: right;
+}
+
+#description {
+	float: left;
+}
+
+#subscribe {
+	clear: both;
+}
+
 /* pseudo classes for styling links */
 
 a:link {
