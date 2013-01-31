@@ -244,14 +244,10 @@ ol li {
 
 #subscription_form {
 	width: 44.75%; /* (400px - 20px padding) 380px /800px */
-	padding: 0 2.6315789%; /* 10px/380px */
+	padding: 0 2.6315789% 3.9473684%; /* 10px/380px 15px/380px  */
 	background-color: rgba(0,61,115,0.5);
 	color: #fff;
 	border-radius: 10px;
-}
-
-#subscribe {
-	margin: 0 0 15px;
 }
 
 /* pseudo classes for styling links */
