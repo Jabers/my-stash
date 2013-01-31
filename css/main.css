@@ -264,11 +264,20 @@ ul {
 }
 
 table {
+	color: #fff;
 	border-collapse: collapse;
+	border: 1px solid #fff;
 }
 
 td {
 	border: 1px solid #fff;
+	padding: .3em;
+}
+
+th {
+	text-align: left;
+	background-color: #ccbe00;
+	padding: .3em;
 }
 
 /* Media Queries ---------------------------------------------------------------
