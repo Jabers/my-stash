@@ -251,15 +251,15 @@ ol li {
 }
 
 #contact_info {
-	float: right;
-}
-
-#description {
 	float: left;
 }
 
+#description {
+	float: right;
+}
+
 #subscribe {
-	clear: both;
+	clear: right;
 }
 
 /* pseudo classes for styling links */
