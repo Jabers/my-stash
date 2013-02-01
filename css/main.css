@@ -279,12 +279,8 @@ ul {
 	list-style-type: none;
 }
 
-#table {
-	clear: both;
-}
-
 table {
-	color: #fff;
+	/* color: #fff; */
 	border-collapse: collapse;
 	border: 1px solid #fff;
 }
