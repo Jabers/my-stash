@@ -280,6 +280,10 @@ ul {
 	list-style-type: none;
 }
 
+#table {
+	margin-left: 1.875%; /* 15px/800px */
+}
+
 table {
 	border-collapse: collapse;
 	border: 1px solid #fff;
