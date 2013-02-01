@@ -281,11 +281,10 @@ ul {
 }
 
 #table {
-	/* margin-left: 1.875%;  15px/800px */
+	float: right;
 }
 
 table {
-	margin-left: 1.875%; /* 15px/800px */
 	border-collapse: collapse;
 	border: 1px solid #fff;
 }
