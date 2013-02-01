@@ -248,6 +248,7 @@ ol li {
 	background-color: rgba(0,61,115,0.5);
 	color: #fff;
 	border-radius: 10px;
+	float: left;
 }
 
 /* pseudo classes for styling links */
